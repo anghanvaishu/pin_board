@@ -12,4 +12,7 @@
 //
 //= require rails-ujs
 document.addEventListener('turbolinks:load', Bootsy.init);
+//= require jquery
+//= require jquery_ujs
+//= require bootstrap-sprockets
 //= require_tree .
